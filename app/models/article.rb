@@ -1,2 +1,3 @@
 class Article < ApplicationRecord
+    has_many :comments #it's plural because it has many...
 end
