@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# blogger_rails_tutorial
->>>>>>> 662d3ee03417318fa185b377cc694d5e247d8e51
