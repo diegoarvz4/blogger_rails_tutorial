@@ -1,24 +1,51 @@
-# README
+# Bloggers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> TThis is Rails app for making a mini-blog.
 
-Things you may want to cover:
+## Built With
+ 
+ - Ruby
+ - Rails
+ 
+## Getting Started
 
-* Ruby version
+To get a local copy up and running follow these simple example steps.
 
-* System dependencies
+## Prerequisites
+ - Ruby
+ - Rails 5
 
-* Configuration
+## Setup
+  Clone or download this Repository.
 
-* Database creation
+## Install
+  Run the following command on your terminal: `$ bundle install`, this will install all the required dependencies necesary for you to run this project locally.
+  
+## Migrate the database
 
-* Database initialization
+`$ rails db:migrate`
 
-* How to run the test suite
+## Usage
+  Run the following command on your terminal: `$ rails s`, this will run a local server which can be accesed via a web browser in `https://localhost:3000`
 
-* Services (job queues, cache servers, search engines, etc.)
+# Authors
 
-* Deployment instructions
+## 👤 **Diego Luis Arvizu Gutiérrez**
 
-* ...
+- Github: [@diegoarvz4](https://github.com/diegoarvz4)
+- Twitter: [@Diego Arvz](https://twitter.com/Darvizu_gutier)
+- Linkedin: [/in/diego-arvz](https://linkedin.com/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is Licensed under MIT
